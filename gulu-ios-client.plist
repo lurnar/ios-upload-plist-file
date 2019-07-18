@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://10.234.129.26:8080/jenkins/job/gulu-ios-client/ws/gulu-ios-client-1.0.0-264.ipa/Runner.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<false/>
+<key>url</key>
+<string>http://10.234.129.26:8080/jenkins/view/%E5%92%95%E5%99%9C%E6%89%93%E5%8C%85/job/gulu-ios-client/ws/ios/Runner/Assets.xcassets/AppIcon.appiconset/icon1024.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.netease.gulu</string>
+<key>bundle-version</key>
+<string>1.0.0</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>ci</string>
+<key>title</key>
+<string>咕噜</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
