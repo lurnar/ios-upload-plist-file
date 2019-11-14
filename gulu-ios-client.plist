@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.234.129.26:8080/jenkins/job/gulu-ios-client/ws/gulu-ios-client-1.0.0-775.ipa/Runner.ipa</string>
+<string>http://10.234.129.26:8080/jenkins/job/gulu-ios-client/ws/gulu-ios-client-1.0.0-776.ipa/Runner.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,7 +33,7 @@
 <key>subtitle</key>
 <string>ci</string>
 <key>title</key>
-<string>咕噜</string>
+<string>网易新闻视频版</string>
 </dict>
 </dict>
 </array>
