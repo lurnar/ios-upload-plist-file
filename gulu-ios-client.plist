@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.234.129.26:8080/jenkins/job/gulu-ios-client/ws/gulu-ios-client-1.0.0-785.ipa/Runner.ipa</string>
+<string>http://10.234.129.26:8080/jenkins/job/gulu-ios-client/ws/gulu-ios-client-1.0.0-814.ipa/Runner.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.netease.gulu</string>
+<string>com.netease.newsvideo</string>
 <key>bundle-version</key>
 <string>1.0.0</string>
 <key>kind</key>
